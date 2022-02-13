@@ -1,0 +1,6 @@
+﻿Site ID,Instance Type,URL,execute?
+Bangkok,SIT,bkk-prime-test.ap.pg.com:7350,NO
+Albany,SIT,ayh-prime-test_n.na.pg.com:7350,YES
+Bangkok,BAT,bkk-prime-test.ap.pg.com:7360,YES
+Dallas,BAT,dal-prime-test.na.pg.com:7360,NO
+Dallas,PROD,dal-prime-prod.na.pg.com:7300,YES
