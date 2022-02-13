@@ -1,1 +1,1 @@
-select * from dbo.test1_2
+select * from dbo.test3_2
