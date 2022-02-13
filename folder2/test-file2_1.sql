@@ -1,0 +1,1 @@
+select * from dbo.test2_1
