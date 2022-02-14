@@ -1,8 +1,0 @@
-[select 'TMPLCHG 789.01' TMPL_CHG_ID,
-        CASE WHEN @tmpl_wh > 0 then 'NR'
-             when @jda_dcs_ro > 800
-         and count(*) > 0 then 'PM'
-             else 'PO'
-        END AS STATUS
-   from job_definition
-  where job_id = 'USR-ALLOCATION']
